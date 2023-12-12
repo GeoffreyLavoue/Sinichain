@@ -1,5 +1,7 @@
 # SINICHAIN
 
+## Lien de la démo : 
+
 ## Concept Général
 
 SiniCHAIN est un outil de suivi de sinistre automobile à l'aide de la blockchain et des NFT. Le principe est de supprimer le papier et le processus très long que peut-être la déclaration de sinistre. Même si les e-Constats existent, il n'y a pas vraiment de suivi efficace. C'est pour ça que SiniCHAIN va répondre à ce besoin.
